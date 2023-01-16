@@ -2,7 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aottr&color=00a35b" alt="aottr" /> </p>
 
 - 🔭 I’m currently working on an open alternative to Gumroad.
-- 🌱 I’m currently learning NUXT and Golang.
+- 🌱 I’m currently learning NUXT, Golang and French 🇫🇷.
 - 👯 I’m looking to collaborate on more Open Source projects.
 - 🤔 I’m looking for help with my discord bots.
 - 💬 Ask me about help or being a participant.
