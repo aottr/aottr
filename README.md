@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+### Hi there 👋
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=r0b2g1t&color=00a35b" alt="r0b2g1t" /> </p>
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=aottr&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aottr&theme=vue&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **aottr/aottr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
