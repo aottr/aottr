@@ -6,9 +6,10 @@
 - 👯 I’m looking to collaborate on more Open Source projects.
 - 🤔 I’m looking for help with my discord bots.
 - 💬 Ask me about help or being a participant.
-- 📫 How to reach me: Twitter, Discord, .... just checkout [alex.ottr.one](https://alex.ottr.one)
+- 📫 How to reach me: Twitter, Discord, .... just checkout [aottr.dev](https://aottr.dev)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I do like Otters.
+- [Mastodon](https://furry.engineer/@alex)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=aottr&theme=vue&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aottr&theme=vue&layout=compact&exclude_repo=KommSys&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
